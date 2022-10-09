@@ -7,7 +7,8 @@
 3. [Flask](https://skillsoft.digitalbadges.skillsoft.com/b58fed76-aea0-479a-9a21-1c69cecf86f5#gs.ejt377)
 4. [Data Structure and Algorithm](https://github.com/skj092/certificates/blob/main/dsa.pdf)
 
-5. [AWS Associate Solutions Architect](https://skillsoft.digitalbadges.skillsoft.com/48102533-8cfc-4933-9823-7e45aabf21a9#gs.ejshhc)
+**AWS**
+1. [AWS Associate Solutions Architect](https://skillsoft.digitalbadges.skillsoft.com/48102533-8cfc-4933-9823-7e45aabf21a9#gs.ejshhc)
 
 **Machine Learning**
 
